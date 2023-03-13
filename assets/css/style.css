@@ -20,8 +20,11 @@ li {
 img {
     width: 100%;
     height: auto;
-    max-width: 100%;
+    max-width: 50%;
 }
+nav {
+        width: 100%;
+    }
 
 main {
     margin: 0 20%;
@@ -83,4 +86,6 @@ td,
 th {
     border: 1px solid black;
     padding: 5px;
+}
+li{ list-style-type:none ;
 }
